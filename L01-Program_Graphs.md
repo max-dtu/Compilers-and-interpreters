@@ -1,7 +1,8 @@
 # Lecture in a nutshell
 * **What do we study in this lecture?** Program Graphs :) 
 * **Why?** Nice model to understand how programs, compilers and interpreters work! We will use them extensively during the course, so please make sure you build a solid understanding of how they work.
-* **How do I know I understood how PGs work?** 👉 Do the exercises, confront your solutions with group mates and TAs.
+* **How do I know I understood how PGs work?** 👉 Do the [exercises](#Exercises).
+
 
 ## Program Graphs in a nutshell
 
